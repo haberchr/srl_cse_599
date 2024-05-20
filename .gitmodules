@@ -1,0 +1,3 @@
+[submodule "attention-learn-to-route"]
+	path = attention-learn-to-route
+	url = https://github.com/haberchr/attention-learn-to-route.git
